@@ -1,0 +1,8 @@
+color_list=("Red", "Green", "White", "Black")
+for i in color_list:
+  if i=="Red":
+    print(i)
+  elif i=="Black":
+    print(i)
+  else:
+    False
